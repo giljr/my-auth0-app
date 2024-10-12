@@ -23,10 +23,10 @@ Learn how to integrate secure authentication in your Node.js app using Auth0, Ex
 
 ## Screenshots
 
-| localhos:5000/login | localhost:5000/|
+| localhost:5000/login | Choose An Account |
 |---------------|---------------|
 | ![Screenshot 1](images/screenshot1.png) | ![Screenshot 2](images/screenshot2.png) |
-| Choose Account | localhost:5000/profile |
+| localhost:5000/ | localhost:5000/profile |
 | ![Screenshot 3](images/screenshot3.png) | ![Screenshot 4](images/screenshot4.png) |
 
 
