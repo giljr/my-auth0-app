@@ -48,7 +48,7 @@ Make sure you have the following installed:
 Open your terminal and run the following command to clone the repository:
 
     
-   **`git clone git@github.com:giljr/my-auth0-app.git`**
+   **`git clone https://github.com/giljr/my-auth0-app.git`**
 
 
 #### 2) Navigate to the Project Directory
